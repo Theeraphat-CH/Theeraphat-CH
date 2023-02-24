@@ -8,8 +8,11 @@ I am Students at Mahasarakham University, Faculty of Information science I'm lea
 
 * 🌍  I'm based in Chaiyaphum, Thailand
 * ✉️  You can contact me at [th33raphat@gmail.com](mailto:th33raphat@gmail.com)
-* 🧠  I'm learning a Could Computing and Math for programming.
+* 🧠  I'm learning a Cloud Computing and Math for programming.
 * 🤝  I'm open to collaborating on Interesting projects
+
+<a href="https://www.github.com/Theeraphat-CH" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Theeraphat-CH?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
 
 ### Skills
 
@@ -43,8 +46,10 @@ I am Students at Mahasarakham University, Faculty of Information science I'm lea
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Theeraphat-CH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Theeraphat-CH&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Theeraphat-CH"><img src="https://github-readme-stats.vercel.app/api?username=Theeraphat-CH&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=facc15&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="Theeraphat-CH's GitHub stats" /></a>
 
-<a href="http://www.github.com/Theeraphat-CH"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Theeraphat-CH&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Theeraphat-CH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Theeraphat-CH&stroke=facc15&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=facc15&currStreakLabel=6366f1&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="https://github.com/Theeraphat-CH" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theeraphat-CH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Theeraphat-CH"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Theeraphat-CH&bg_color=22272e&color=facc15&line=ef4444&point=facc15&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Theeraphat-CH" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theeraphat-CH&langs_count=10&title_color=6366f1&text_color=facc15&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
